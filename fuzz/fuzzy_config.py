@@ -1,4 +1,4 @@
-from membership import gaussian, trapezoidal, triangular
+from .membership import gaussian, trapezoidal, triangular
 
 # ======================
 # Fuzzy logic definition
