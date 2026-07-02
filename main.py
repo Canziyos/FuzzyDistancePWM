@@ -78,5 +78,5 @@ def main():
             if output_device:
                 output_device.off()
             time.sleep(0.5)
-if __name__=="main":
+if __name__=="__main__":
     main()
